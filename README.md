@@ -4,7 +4,7 @@
 
 ---
 
-### 🔗🎯 Repository Description
+#### 🔗🎯 Repository Description
 
 This repository emphasizes practical implementations of vulnerabilities, risk mitigation, and compliance frameworks across the AI and Large Language Model (LLM) lifecycle.
 
