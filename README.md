@@ -16,7 +16,7 @@
 
 ---
 
-#### 🔗📚 Other Resources
+#### 🔗📚 Important Resources for AI Security
 
 * **[OWASP Top 10 for Large Language Models](https://www.google.com/search?q=https://owasp.org/www-project-top-10-for-large-language-models/):**
 
