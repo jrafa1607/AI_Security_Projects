@@ -4,7 +4,7 @@
 > The ojective is emphasizes practical implementations of vulnerabilities, risk mitigation, and compliance frameworks across the AI and Large Language Model (LLM) lifecycle.
 > All code examples, attack simulations, and defense mechanisms were developed and tested using **Google Colab** notebooks.
 
-| Category | Description |
+| Category | Description / Example s |
 | --- | --- |
 | **AI Hallucination** | Examples of factual inconsistencies and hallucinations in LLMs. |
 | **Privacy & Minimization** | Methods for data anonymization, pseudo-anonymization, minimization ... |
