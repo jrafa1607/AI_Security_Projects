@@ -12,7 +12,7 @@ This repository emphasizes practical implementations of vulnerabilities, risk mi
 | --- | --- |
 | **AI Hallucination** | Examples of factual inconsistencies and hallucinations in LLMs. |
 | **Privacy & Minimization** | Methods for data anonymization, pseudo-anonymization, minimization ... |
-| **Prompt Injection** | Examples of direct and indirect prompt injection vulnerabilities, jailbreaks, and defensive guardrails. |
+| **Prompt Injection** | Examples of direct and indirect prompt injection, jailbreaks... |
 | **Data Poisoning** | Simulations of training data corruption, backdoors, and corresponding detection/defense mechanisms. |
 | **Adversarial Attacks** | Adversarial perturbation examples and robustness testing for machine learning models. |
 | **Model Extraction & Inversion** | Techniques demonstrating model theft vectors and privacy leakage through model outputs. |
