@@ -1,12 +1,8 @@
 ### 🛡️🔐 AI Security Project
 
-> This repository serves as a centralized collection of Python algorithms, notebooks, and resources dedicated to **Artificial Intelligence Security, Privacy Preservation, and Model Robustness**. All code examples, attack simulations, and defense mechanisms were developed and tested using **Google Colab** notebooks.
-
----
-
-#### 🔗🎯 Repository Description
-
-This repository emphasizes practical implementations of vulnerabilities, risk mitigation, and compliance frameworks across the AI and Large Language Model (LLM) lifecycle.
+> This repository serves as a centralized collection of Python algorithms, notebooks, and resources dedicated to **Artificial Intelligence Security, Privacy Preservation, and Model Robustness**.
+> The ojective is emphasizes practical implementations of vulnerabilities, risk mitigation, and compliance frameworks across the AI and Large Language Model (LLM) lifecycle.
+> All code examples, attack simulations, and defense mechanisms were developed and tested using **Google Colab** notebooks.
 
 | Category | Description |
 | --- | --- |
@@ -21,7 +17,7 @@ This repository emphasizes practical implementations of vulnerabilities, risk mi
 
 ---
 
-#### 📚 Other Resources
+#### 🔗📚 Other Resources
 
 * **[OWASP Top 10 for Large Language Models](https://www.google.com/search?q=https://owasp.org/www-project-top-10-for-large-language-models/):**
 
