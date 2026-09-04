@@ -10,7 +10,7 @@
 | **Privacy & Minimization** | Methods for data anonymization, pseudo-anonymization, minimization ... |
 | **Prompt Injection** | Examples of direct and indirect prompt injection, jailbreaks... |
 | **Data Poisoning** | Data corruption, backdoors, and corresponding detection/defense mechanisms. |
-| **Adversarial Attacks** | Adversarial perturbation examples and robustness testing for machine learning models. |
+| **Adversarial Attacks** | Adversarial Perturbation examples and Robustness testing for ML Models. |
 | **Model Extraction & Inversion** | Techniques demonstrating model theft vectors and privacy leakage through model outputs. |
 | **Guardrails** | Input sanitization, output validation frameworks, and safety filters for secure AI deployment. |
 | **Security Benchmarks** | Specialized datasets and evaluation frameworks used to test AI security vulnerabilities. |
