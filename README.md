@@ -10,7 +10,7 @@ This repository emphasizes practical implementations of vulnerabilities, risk mi
 
 | Category | Description |
 | --- | --- |
-| **AI Hallucination** | Techniques for detecting, measuring, and mitigating factual inconsistencies and hallucinations in LLMs. |
+| **AI Hallucination** | Examples of factual inconsistencies and hallucinations in LLMs. |
 | **Privacy & Minimization** | Methods for data anonymization, pseudo-anonymization, minimization ... |
 | **Prompt Injection** | Examples of direct and indirect prompt injection vulnerabilities, jailbreaks, and defensive guardrails. |
 | **Data Poisoning** | Simulations of training data corruption, backdoors, and corresponding detection/defense mechanisms. |
