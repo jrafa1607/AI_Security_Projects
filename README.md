@@ -19,7 +19,9 @@ All code examples, attack simulations, and defense mechanisms were developed and
 
 #### 🔗📚 Important Resources for AI Security
 
-* **[OWASP Top 10 for LLMs](https://owasp.org/www-project-top-10-for-large-language-model-applications/):**
+* **[CSA AI Controls Matrix](https://cloudsecurityalliance.org/blog/2025/07/10/introducing-the-csa-ai-controls-matrix-a-comprehensive-framework-for-trustworthy-ai)**
+* **[ENISA The Framework for AI Cybersecurity Practices (FAICP)](https://www.faicp-framework.com/)**
+* **[OWASP Top 10 for LLMs](https://owasp.org/www-project-top-10-for-large-language-model-applications/)**
 
 ---
 
