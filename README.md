@@ -1,4 +1,4 @@
-### 🛡️🔐 AI Security Project
+### 🛡️🔐 AI Security Projects
 This repository serves as a centralized collection of Python algorithms, notebooks, and resources dedicated to **Artificial Intelligence Security, Privacy Preservation, and Model Robustness**.
 The ojective is emphasizes practical implementations of vulnerabilities, risk mitigation, and compliance frameworks across the AI and Large Language Model (LLM) lifecycle.
 <br>
